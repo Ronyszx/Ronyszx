@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning AWS and cloud  
   
 
-- ❓ Ask me about anything related Java   
+- ❓ Ask me about anything related to Java   
   
 
 - ⚡ Fun fact: Now you can start following me!😀  
