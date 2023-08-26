@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Rony, a student  @KleTech University Belgaum 👨‍💻 currently working  on finding new people and the tech in you 🚀</div>  
+### <div align="center">I'm Rony, and currently working as a Software Engineer 🚀</div>  
   
 
-- 🔭 I’m currently working ARedu(AR based learing application)  
+- 🔭 I’m currently working on React based projects
   
 
 - 🌱 I’m currently learning AWS and cloud  
