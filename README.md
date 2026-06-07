@@ -14,7 +14,7 @@ Building systems that connect people, applications, and data.
 
 ## About
 
-I design and build systems that help enterprises move data, automate processes, and make better decisions.
+I have designed and built systems that help enterprises move data, automate processes, and make better decisions. Moving Forward
 
 My interests span:
 
@@ -105,11 +105,6 @@ Patient report analysis and summarization using LLMs and RAG.
 ### Angular + Spring Boot Platform
 
 JWT Authentication • RBAC • OpenAPI • PostgreSQL
-
-### Enterprise Integration Framework
-
-Reusable patterns for scalable enterprise integrations.
-
 
 ## Currently Learning
 
