@@ -102,10 +102,6 @@ Next ──► Solutions Architecture
 
 Patient report analysis and summarization using LLMs and RAG.
 
-### Angular + Spring Boot Platform
-
-JWT Authentication • RBAC • OpenAPI • PostgreSQL
-
 ## Currently Learning
 
 ```java
